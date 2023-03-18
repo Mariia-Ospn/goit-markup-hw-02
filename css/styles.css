@@ -1,7 +1,13 @@
+:root {
+
+}
+
 body {
 font-family: 'Roboto', sans-serif;  
 color:#434455;
+background-color:#FFFFFF;
 }
+
 .list {
     list-style: none;
 }
@@ -61,28 +67,18 @@ color: #2E2F42;
 .contacts-item {
 }
 
-.contacts-mail {
+.contacts-mail-phone {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
 
-.contacts-mail:hover, 
-.contacts-mail:focus {
+.contacts-mail-phone:hover, 
+.contacts-mail-phone:focus {
     color: #404bbf;
 }
 
-.contacts-phone {
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
-}
-.contacts-phone:hover, 
-.contacts-phone:focus {
-    color: #404bbf;
-}
 
 /* ..............................Главний контент................................... */
 .our-works {
