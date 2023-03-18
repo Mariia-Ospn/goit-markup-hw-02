@@ -134,8 +134,16 @@ color: var(--primery-text-color);
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:var(--primery-text-color);
-
 }
+.team-section {
+    background-color: var(--secondary-background-color);
+}
+
+.team-item {
+    background-color: var(--primery-background-color);
+}
+
+
 
 .our-works {
 }
