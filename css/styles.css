@@ -1,0 +1,141 @@
+body {
+font-family: 'Roboto', sans-serif;  
+color:#2E2F42;;
+}
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+/*.............................Хедер.......................  */
+.header {
+}
+.header-navigation {
+}
+
+/* Лого */
+.logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+.header-logo {
+    color: #2E2F42;
+}
+.header-logo:hover, .header-logo:focus {
+    color: #4D5AE5;
+}
+
+
+/* Навигация */
+.header-list {
+}
+.header-item {
+}
+.header-link {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.header-link:hover, .header-link:focus {
+    color: #4D5AE5;
+}
+
+/* Контакты */
+.contacts {
+}
+.contacts-item {
+}
+
+.contacts-mail {
+font-size: 16px;
+line-height: 1.5;
+color: #434455;
+}
+
+.contacts-mail:hover, 
+.contacts-mail:focus {
+    color: #4D5AE5;
+}
+
+.contacts-phone {
+font-size: 16px;
+line-height: 1.5;
+color: #434455;
+}
+.contacts-phone:hover, 
+.contacts-phone:focus {
+    color: #4D5AE5;
+}
+
+/* ..............................Главний контент................................... */
+.our-works {
+}
+.focus {
+}
+.focus-item {
+}
+/* Фокус КНОПКИ */
+.focus-btn {
+font-family: inherit;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+color: #4D5AE5;
+cursor: pointer
+}
+.focus-btn:hover, .focus-btn:focus {
+    color: #FFFFFF;
+}
+
+/* Список работ */
+.work-examples {
+}
+.examples-item {
+}
+.examples-title {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.examples-desc {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+
+/* ..................................Подвал............................ */
+.footer {
+}
+
+.footer-logo {
+    color: #F4F4FD;
+}
+.footer-logo:hover, .footer-logo:focus {
+    color: #4D5AE5; 
+}
+
+.footer-text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+}
