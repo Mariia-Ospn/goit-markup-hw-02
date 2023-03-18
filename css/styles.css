@@ -1,6 +1,6 @@
 body {
 font-family: 'Roboto', sans-serif;  
-color:#2E2F42;;
+color:#434455;
 }
 .list {
     list-style: none;
@@ -16,7 +16,7 @@ color:#2E2F42;;
 
 /* Лого */
 .logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway'sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -48,10 +48,14 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .header-link:hover, .header-link:focus {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 /* Контакты */
+.address-contacts {
+    font-style: normal;
+}
+
 .contacts {
 }
 .contacts-item {
