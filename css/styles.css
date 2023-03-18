@@ -103,9 +103,11 @@ text-align: center;
 letter-spacing: 0.04em;
 color: #4D5AE5;
 cursor: pointer
+background-color: #F4F4FD;
 }
 .focus-btn:hover, .focus-btn:focus {
     color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 /* Список работ */
@@ -113,11 +115,16 @@ cursor: pointer
 }
 .examples-item {
 }
+.examples-link {
+
+}
+
 .examples-title {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
+color: #2e2f42;
 }
 
 .examples-desc {
