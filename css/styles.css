@@ -16,7 +16,7 @@ color:#434455;
 
 /* Лого */
 .logo {
-    font-family: 'Raleway'sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -64,22 +64,24 @@ color: #2E2F42;
 .contacts-mail {
 font-size: 16px;
 line-height: 1.5;
+letter-spacing: 0.02em;
 color: #434455;
 }
 
 .contacts-mail:hover, 
 .contacts-mail:focus {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 .contacts-phone {
 font-size: 16px;
 line-height: 1.5;
+letter-spacing: 0.02em;
 color: #434455;
 }
 .contacts-phone:hover, 
 .contacts-phone:focus {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 /* ..............................Главний контент................................... */
@@ -128,6 +130,7 @@ color: #434455;
 
 /* ..................................Подвал............................ */
 .footer {
+    background-color:#2e2f42;
 }
 
 .footer-logo {
